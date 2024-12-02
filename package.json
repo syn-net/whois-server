@@ -5,9 +5,9 @@
   "type": "module",
   "module": "server.mjs",
   "scripts": {
-    "client": "node client.mjs",
+    "client": "node client.mjs naughty.test",
     "serve": "node server.mjs",
-    "test": "run-p serve client",
+    "test": "run-p serve client lan",
     "test:telnet": "telnet 127.0.0.1 43", 
     "lint": "json5 data/*.json5"
   },
