@@ -1,0 +1,27 @@
+{
+  "domain": "naughty.test",
+  "id": "2",
+  "whois": "whois.naughty.test",
+  "registrar_url": "www.naughty.test",
+  "updated": "2023-07-29T09:06:18Z",
+  "creation": "2019-01-01T00:00:00Z",
+  "expiry": "2025-07-01T00:00:00Z",
+  "registrar": "syn",
+  "registrar_id": "2",
+  "registrar_abuse_email": "abuse@naughty.test",
+  "registrar_abuse_phone": "+1-479-358-7210",
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns3.lan",
+    "ns4.lan"
+  ],
+  "dnssec": "unsigned",
+  "last_updated": "2023-07-29T09:09:42Z"
+}
